@@ -1,0 +1,463 @@
+testsyms :
+  # - AAL
+  # - AAL_1y
+  # - AAL_5y
+  # - AAPL-1y
+  # - AAPL_5y
+  # - ABBV_5y
+  # - ABT_5y
+  # - AMC_5y
+  # - AMD
+  # - AMD_5y
+  # - AMT_5y
+  # - AMZN
+  # - AMZN_1y
+  # - AMZN_5y
+  # - APD_5y
+  # - ARRY_5y
+  # - ASO_5y
+  # - BA_5y
+  # - BA_test
+  # - CAT_5y
+  # - CFVI
+  # - CFVI_5y
+  # - CLDX_5y
+  # - COST
+  # - COST_5y
+  # - DG_5y
+  # - FDX_5y
+  # - FIVN_5y
+  # - GDOT
+  # - GDOT_5y
+  # - GE
+  # - GE_5y
+  # - GIS
+  # - GIS_5y
+  # - HD
+  # - HD_5y
+  # - ITCI_5y
+  # - JNJ 
+  # - JNJ_5y
+  # - LOW
+  # - LOW_5y
+  # - MCD
+  # - MCD_5y
+  # - MMM
+  # - MMM_5y
+  # - MRNA
+  # - MRNA_5y
+  # - MSFT
+  # - MSFT_5y
+  # - NKE_5y
+  # - NVDA_1y
+  # - NVDA_5y
+  # - PFE
+  # - PFE_5y
+  # - PG 
+  # - PG_5y
+  # - PRU
+  # - PRU_5y
+  # - PSA
+  # - PSA_5y
+  # - PYPL
+  # - PYPL_5y
+  # - R_5y
+  - RUN_2y
+  # - SLB
+  # - SLB_5y
+  # - SPY
+  # - SPY_1y
+  # - SPY_5y
+  # - STT
+  # - TLT
+  # - TLT_1y
+  # - TLT_5y
+  # - TMUS
+  # - TMUS_5y
+  # - TMX
+  # - TSLA
+  # - TSLA_1y
+  # - TSLA_5y
+  # - TMX_5y
+  # - UL
+  # - UL_5y
+  # - V
+  # - V_1y
+  # - V_5y
+  # - UNP
+  # - UNP_5y
+  # - WM
+  # - WM_5y
+  # - WMT
+  # - WMT_1y
+  # - WMT_5y
+  # - ZTS
+  # - ZTS_5y
+
+  # - 6A
+  # - 6A_1y
+  # - 6A_5y
+  # - 6B
+  # - 6B_5y
+  # - 6C
+  # - 6C_1y
+  # - 6C_5y
+  # - 6E
+  # - 6E_1y
+  # - 6E_5y
+  # - 6J
+  # - 6J_1y
+  # - 6J_5y
+  # - 6M_5y
+  # - 6S
+  # - 6S_5y
+  # - CL
+  # - CL_1y
+  # - CL_5y
+  # - EMD
+  # - EMD_1y
+  # - EMD_5y
+  # - ES
+  # - ES_1y
+  # - ES_5y
+  # - GC_5y
+  # - GF
+  # - GF_5y
+  # - HE
+  # - HE_1y
+  # - HE_5y
+  # - HG
+  # - HG_5y
+  # - HO
+  # - HO_5y
+  # - LE
+  # - LE_1y
+  # - LE_5y
+  # - NG
+  # - NG_1y
+  # - NG_5y
+  # - NQ
+  # - NQ_5y
+  # - PL
+  # - PL_5y
+  # - RB
+  # - RB_5y
+  # - RTY
+  # - RTY_1y
+  # - SI
+  # - SI_1y
+  # - SI_5y
+  # - ZC
+  # - ZC_5y
+  # - ZL
+  # - ZL_5y
+  # - ZM
+  # - ZM_5y
+  # - ZO_5y
+  # - ZS
+  # - ZS_1y
+  # - ZS_5y
+  # - ZW
+  # - ZW_5y
+
+#############################  
+
+stocksyms :
+  - AAL
+  - AAL_1y
+  - AAL_5y
+  - AAPL
+  - AAPL_5y
+  - ABBV_5y
+  - ABT_5y
+  - AMC_5y
+  - AMD
+  - AMD_5y
+  - AMT_5y
+  - AMZN
+  - AMZN_1y
+  - AMZN_5y
+  - APD_5y
+  - ARRY_5y
+  - ASO_5y
+  - BA_5y
+  - BA_test
+  - CAT_5y
+  - CFVI
+  - CFVI_5y
+  - CLDX_5y
+  - COST
+  - COST_5y
+  - DG_5y
+  - FDX_5y
+  - FIVN_5y
+  - GDOT
+  - GDOT_5y
+  - GE
+  - GE_5y
+  - GIS
+  - GIS_5y
+  - HD
+  - HD_5y
+  - ITCI
+  - ITCI_5y
+  - JNJ
+  - JNJ_5y
+  - LOW
+  - LOW_5y
+  - MCD
+  - MCD_5y
+  - MMM
+  - MMM_5y
+  - MRNA
+  - MRNA_5y
+  - MSFT
+  - MSFT_5y
+  - NKE_5y
+  - NVDA_1y
+  - NVDA_5y
+  - PFE
+  - PFE_5y
+  - PG
+  - PG_5y
+  - PRU
+  - PRU_5y
+  - PSA
+  - PSA_5y
+  - PYPL
+  - PYPL_5y
+  - R_5y
+  - RUN_2y
+  - SLB
+  - SLB_5y
+  - SPY
+  - SPY_1y
+  - SPY_5y
+  - STT
+  - TLT
+  - TLT_1y
+  - TLT_5y
+  - TMUS
+  - TMUS_5y
+  - TMX
+  - TMX_5y
+  - TSLA
+  - TSLA_1y
+  - TSLA_5y
+  - UL
+  - UL_5y
+  - UNP
+  - UNP_5y
+  - V
+  - V_1y
+  - V_5y
+  - WM
+  - WM_5y
+  - WMT
+  - WMT_1y
+  - WMT_5y
+  - ZTS
+  - ZTS_5y
+
+futuresyms :
+  6A : 100000
+  6A_1y : 100000
+  6A_5y : 100000
+  6B : 62500
+  6B_5y : 62500
+  6C : 100000
+  6C_1y : 100000
+  6C_5y : 100000
+  6E : 125000
+  6E_1y : 125000
+  6E_5y : 125000
+  6J : 12500000
+  6J_1y : 12500000
+  6J_5y : 12500000
+  6M_5y : 500000
+  6N : 100000
+  6S : 125000
+  6S_5y : 125000
+  CL : 1000
+  CL_1y : 1000
+  CL_5y : 1000
+  EMD : 100
+  EMD_1y : 100
+  EMD_5y : 100
+  ES : 50
+  ES_1y : 50
+  ES_5y : 50
+  GC : 100
+  GC_5y : 100
+  GF : 500
+  GF_5y : 500
+  HE : 400
+  HE_1y : 400
+  HE_5y : 400
+  HG : 25000
+  HG_5y : 25000
+  HO : 42000
+  HO_5y : 42000
+  LE : 400
+  LE_1y : 400
+  LE_5y : 400
+  NG : 10000
+  NG_1y : 10000
+  NG_5y : 10000
+  NQ : 20
+  NQ_5y : 20
+  PL : 50
+  PL_5y : 50
+  RB : 42000
+  RB_5y : 42000
+  RTY : 50
+  RTY_17 : 50
+  SI : 5000
+  SI_1y : 5000
+  SI_5y : 5000
+  ZC : 50
+  ZC_5y : 50
+  ZL : 600
+  ZL_5y : 600
+  ZM : 100
+  ZM_5y : 100
+  ZO_5y : 50
+  ZS : 50
+  ZS_1y : 50
+  ZS_5y : 50
+  ZW : 50
+  ZW_5y : 50
+
+##########################
+strat : v105
+
+btconfig_ver : v105
+
+##########################
+max_risk : 
+  stocks : 100
+  futures : 150000
+
+markets :
+  - stocks
+  - futures
+
+######################################################################
+## FULL
+##########################
+
+sa : # sa - short allowed;
+  - True
+  - False
+# ##########################
+h_stop : 
+  # ATR multiplyer used in stop calculations
+  # No negative numbers
+  min_range : 1.0 #1.0
+  max_range : 1.3 # 1.9
+  inc : 0.1 # 0.05 // 
+
+h_t : # hyserisis around T0 to signal a trade
+  min_range : 0.0 #0.00
+  max_range : 0.3 #0.11
+  inc : 0.005 # 0.0025 // Eventually 0.0025 or smaller
+
+n_d : # The number of days between T comparisons; nominal = 2
+  min_range : 1 #1 -- 26
+  max_range : 55 #25 -- 50
+  inc : 1
+
+n_t : # The basis for calculating "T"; nominal = 9
+  min_range : 66 #1-30
+  max_range : 70 #1-70
+  inc : 1
+
+
+# #########################
+P_offset : 121 # Should be set to 1 + max of:
+#   (max(n_t) + max(n_d)), 27)
+######################################################################
+
+######################################################################
+## TEMP
+##########################
+
+#sa : # sa - short allowed;
+  # - True
+#  - False
+
+# ##########################
+#h_stop : 
+  # ATR multiplyer used in stop calculations
+  # No negative numbers
+  #min_range : 1.0 #1.0
+  #max_range : 1.5 # 3.0 
+  #inc : 0.1 # 0.1 // 
+
+#h_t : # hyserisis around T0 to signal a trade
+#  min_range : 0.06 #0
+#  max_range : 0.09 #0.1
+#  inc : 0.005 # 0.005 // Eventually 0.0025 or smaller
+
+#n_d : # The number of days between T comparisons; nominal = 2
+#  min_range : 4 #1
+#  max_range : 10 #3
+#  inc : 1
+
+#n_t : # The basis for calculating "T"; nominal = 9
+#  min_range : 6 #3
+#  max_range : 10 #13
+#  inc : 1
+
+#P_offset : 39 # Should be set to max of (n_t + n_d))+ 27)
+######################################################################
+
+
+######################################################################
+## GENERIC
+##########################
+
+# sa : # sa - short allowed;
+#   - True
+#   - False
+# ##########################
+
+
+# n_t : # The basis for calculating "T"; nominal = 9
+#   min_range : 3 #3
+#   max_range : 13 #13
+#   inc : 1
+
+# n_d : # The number of days between T comparisons; nominal = 2
+#   min_range : 1 #1
+#   max_range : 3 #3
+#   inc : 1
+
+# h_t : # hyserisis around T0 to signal a trade
+#   min_range : 0 #0
+#   max_range : 0.1 #0.1
+#   inc : 0.005 # 0.005 // Eventually 0.0025 or smaller
+
+# h_stop : 
+#   # ATR multiplyer used in stop calculations
+#   # No negative numbers
+#   min_range : 1.0 #1.0
+#   max_range : 3.0 # 3.0 
+#   inc : 0.1 # 0.1 // 
+
+# P_offset : 44 # Should be set to max of (n_t + n_d))+ 27)
+######################################################################
+
+# the paths must be followed by a '/'
+# csvdatapath : "/home/gary/coding/fincode/csvdata/"
+#resultpath : "/home/gary/coding/fincode/btresults/"
+paths : 
+  csvdatapath : "csvdata/"
+  resultpath : "btresults/"
+  configuration : "btresults/"
+  testdata : "btresults/"
+  # testconfigurations : "bttestconfigs/"
+  testconfigurations : "btresults/"
+
+
+
